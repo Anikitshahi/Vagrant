@@ -1,6 +1,6 @@
 # Vagrant
 Rails-app-in-a-Vagrant-box 
-#To do:
+-To do:
   - Install hashicorp Vagrant
   - Install Virtual Machine
   - Configure Vagrant box
@@ -10,7 +10,7 @@ Rails-app-in-a-Vagrant-box
 
 
 Vagrant virtual box having private and public network which can be accessed from local machine
-#To do:
+-To do:
   - Configure both private and public network for vagrant box.
   - Install apache and ngnix web server both at same time with different port and must run on background and also restart if there is any process failure.
   - Any of them can be moniter the status if it is running or not from systemmd or any other tools.
